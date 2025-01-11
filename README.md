@@ -22,15 +22,15 @@ Follow the steps below to set up and run the application on your local machine.
 
 1. clone repo By:
    ```bash
-  git clone https://github.com/Ramesh087/qr ```
+   git clone https://github.com/Ramesh087/qr 
 
 2. Install node modules using(in root Directory):
    ```bash
-  npm install ```
+   npm install 
 
 3. Run the application using the following command from the root directory of the project:
    ```bash
-   npm run dev ```
+   npm run dev 
 
 
 
